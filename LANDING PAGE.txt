@@ -1,0 +1,26 @@
+<body style="background-color: #ff6347; font-family: 'Roboto', sans-serif;">
+  <h1 style="color: #ffffff; text-align: center; padding-top: 50px;">Welcome to My Landing Page!</h1>
+  <img src="my-graphic.png" alt="My Graphic" style="display: block; margin: 0 auto;">
+</body>
+<body style="background-color: #ff6347; font-family: 'Roboto', sans-serif;">
+  <header style="background-color: #ffffff; padding: 20px; text-align: center;">
+    <h1>Welcome to My Landing Page!</h1>
+  </header>
+  <main style="display: flex; justify-content: space-around; padding: 20px;">
+    <section style="flex: 1; padding: 20px; background-color: #ffffff;">
+      <h2>About Me</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+    </section>
+    <section style="flex: 1; padding: 20px; background-color: #ffffff;">
+      <h2>My Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
+    </section>
+  </main>
+  <footer style="background-color: #ffffff; padding: 20px; text-align: center;">
+    <p>&copy; 2023 My Landing Page. All rights reserved.</p>
+  </footer>
+</body>
